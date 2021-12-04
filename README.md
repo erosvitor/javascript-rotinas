@@ -10,7 +10,7 @@ As rotinas disponíveis no projeto são:
 * Data
     * Extrair dia
     * Extrair mês
-    * Extraor ano
+    * Extrair ano
 * Extenso
     * Extenso de valor monetário
     * Extenso data
